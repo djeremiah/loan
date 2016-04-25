@@ -2,4 +2,3 @@
 FROM asaran/brms-realtime-decicion-server-demo
 MAINTAINER Anurag Saran asaran@redhat.com
 EXPOSE 8080
-CMD ["jbossdemocentral/brms-realtime-decicion-server-demo"]
